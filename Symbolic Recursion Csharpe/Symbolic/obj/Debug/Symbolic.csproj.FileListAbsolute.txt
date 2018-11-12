@@ -1,0 +1,5 @@
+c:\users\owner\documents\visual studio 2015\Projects\Symbolic\Symbolic\bin\Debug\Symbolic.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\Symbolic\Symbolic\bin\Debug\Symbolic.exe
+c:\users\owner\documents\visual studio 2015\Projects\Symbolic\Symbolic\bin\Debug\Symbolic.pdb
+c:\users\owner\documents\visual studio 2015\Projects\Symbolic\Symbolic\obj\Debug\Symbolic.exe
+c:\users\owner\documents\visual studio 2015\Projects\Symbolic\Symbolic\obj\Debug\Symbolic.pdb
